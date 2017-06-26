@@ -1,0 +1,23 @@
+
+/* Footer design */
+.footer {
+  font-size: $base-size * 2;
+  color: white;
+  background-color: #434545;
+  padding: 30px;
+
+}
+.footer p {
+  color: white;
+  text-align: center;
+  font-size: $base-size;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover {
+color: yellow;
+transition: 0.6s ease-out;
+  text-decoration: none;
+}

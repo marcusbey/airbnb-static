@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid gray;
+  border-radius: 5px 5px 5px 5px;
+  padding: 30px;
+  background: white;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  color: $white;
+  p{
+    color: $white;
+  }
+}
